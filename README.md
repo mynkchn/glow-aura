@@ -25,7 +25,7 @@ Glow Aure is a modern email template built with responsive design principles. Th
 ## Screenshots
 
 ### Design
-![Design](glow-aura-design/Glow Aura Vitamin C Serum Ad.png)
+![Design](glow-aura-design/design.png)
 
 ### Design to Code
 ![Design to Code](glow-aura-design/implemented-design.png)
