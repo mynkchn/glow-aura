@@ -1,7 +1,7 @@
 
-# Glow Aure Project
+# Glow Aura Project
 
-Glow Aure is a modern email template built with responsive design principles. The email template was generated with the help of AI tools such as Claude and ChatGPT to assist in creating the design and then converting it into HTML and CSS.
+Glow Aura is a modern email template built with responsive design principles. The email template was generated with the help of AI tools such as Claude and ChatGPT to assist in creating the design and then converting it into HTML and CSS.
 
 ## Features
 
